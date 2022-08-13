@@ -1,6 +1,10 @@
 <!--统计-->
 [![Earnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=earnan&count_private=true&show_icons=true&show_owner&layout=compact)](https://github.com/earnan)
 
+<a href="https://github.com/earnan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=earnan&count_private=true&show_icons=true&show_owner&layout=compact" />
+</a>
+
 <!--常用语言-->
 <a href="https://github.com/earnan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact" />
