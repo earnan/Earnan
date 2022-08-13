@@ -1,17 +1,13 @@
 <!--统计-->
-<a href="https://github.com/earnan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=earnan&count_private=true&show_icons=true&show_owner" />
-</a>
+[![Earnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=earnan&count_private=true&show_icons=true)](https://github.com/earnan)
 
 <!--常用语言-->
-<a href="https://github.com/earnan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact)](https://github.com/earnan)
 
 
 <!--仓库卡片-->
 <a href="https://github.com/earnan/chloroplast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast&show_owner" />
 </a>
 <a href="https://github.com/earnan/chloroplast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
