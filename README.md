@@ -4,6 +4,10 @@
 <!--常用语言-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact)](https://github.com/earnan)
 
+<a href="https://github.com/earnan">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact" />
+</a>
+
 <!--仓库卡片-->
 <a href="https://github.com/earnan/chloroplast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
