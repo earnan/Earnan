@@ -1,11 +1,11 @@
 <!--统计-->
 <a href="https://github.com/earnan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=earnan&count_private=true&show_icons=true&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=earnan&count_private=true&show_icons=true&show_owner" />
 </a>
 
 <!--常用语言-->
 <a href="https://github.com/earnan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact" />
 </a>
 
 
