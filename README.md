@@ -1,8 +1,8 @@
 <!--统计-->
 [![Earnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=earnan&count_private=true&show_icons=true)](https://github.com/earnan)
 
-<!--常用语言-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact)](https://github.com/earnan)
+<!--常用语言--=compact>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout)](https://github.com/earnan)
 
 
 <!--仓库卡片-->
