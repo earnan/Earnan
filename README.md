@@ -6,8 +6,12 @@
 <a href="https://github.com/earnan/chloroplast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast)](https://github.com/earnan/chloroplast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast)](https://github.com/earnan/chloroplast)
+<a href="https://github.com/earnan/chloroplast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
+</a>
+<a href="https://github.com/earnan/chloroplast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
+</a>
 
 
 <!--
