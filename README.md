@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact)](https://github.com/earnan)
 -->
 <a href="https://github.com/earnan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earnan" />
 </a>
 
 
