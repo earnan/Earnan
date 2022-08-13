@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
 </a>
 <a href="https://github.com/earnan/chloroplast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
 </a>
 
 
