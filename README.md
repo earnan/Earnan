@@ -1,8 +1,9 @@
+#统计
 [![Earnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=earnan&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+#常用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#仓库卡片
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **earnan/Earnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=convoychat" />
-</a>
