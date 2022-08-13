@@ -6,6 +6,9 @@
 
 
 <!--仓库卡片-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast&show_owner)](https://github.com/earnan/chloroplast)
+
+<!--
 <a href="https://github.com/earnan/chloroplast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast&show_owner" />
 </a>
@@ -15,6 +18,9 @@
 <a href="https://github.com/earnan/chloroplast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earnan&repo=chloroplast" />
 </a>
+-->
+
+
 
 
 <!--
